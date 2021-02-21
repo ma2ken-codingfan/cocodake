@@ -12,7 +12,7 @@ export default () => (
     />
     <div>
       <p> トップページのコンテンツ</p>
-      <button class="block uppercase mx-auto shadow bg-indigo-800 hover:bg-indigo-700 focus:shadow-outline focus:outline-none text-white text-xs py-3 px-10 rounded">
+      <button class="block uppercase mx-auto shadow bg-indigo-800 hover:bg-indigo-600 focus:shadow-outline focus:outline-none text-white text-xs py-3 px-10 rounded">
         Tailwind test
       </button>
       <Image filename="sample.jpg" alt="サンプル画像" />
