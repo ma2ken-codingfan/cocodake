@@ -95,6 +95,10 @@ $ yarn add gatsby-plugin-react-helmet react-helmet
 TailwindCSS、PostCSSをインストール
 
 ```bash
-yarn add gatsby-plugin-postcss
+$ yarn add gatsby-plugin-postcss
+
+$ yarn add tailwindcss --dev # tailwind cssをインストール
+$ yarn tailwindcss init # tailwind cssの設定ファイルを生成
+$ touch postcss.config.js # postcssの設定ファイルを生成
 ```
 
